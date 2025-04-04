@@ -6,7 +6,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/",
+  base: "/portfolio-dynamic-quiz-72-main/",
   publicDir: "public",
   server: {
     host: "::",
